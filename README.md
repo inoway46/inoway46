@@ -1,6 +1,6 @@
 Web application engineer based in Tokyo, Japan.
 
-## Links / Outputs
+## Outputs
 
 [![Hatena Blog](https://img.shields.io/badge/Hatena%20Blog-00A4DE?style=flat-square&logo=hatenabookmark&logoColor=white)](https://inoway46.hatenablog.com/)
 [![Cosense](https://img.shields.io/badge/Cosense-000000?style=flat-square&logoColor=white)](https://scrapbox.io/inoway46/)
