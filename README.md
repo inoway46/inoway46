@@ -14,3 +14,4 @@ Web application engineer based in Tokyo, Japan.
 - [Qiita](https://qiita.com/inoway46)
 - [Zenn](https://zenn.dev/inoway46)
 - [SpeakerDeck](https://speakerdeck.com/inoway46)
+- [技術書典15「Good Morning #01」（第2章）](https://techbookfest.org/product/hhAtue5UkHeMXiy8NNpu3)
