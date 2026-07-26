@@ -13,3 +13,4 @@ Web application engineer based in Tokyo, Japan.
 - [Cosense](https://scrapbox.io/inoway46/)
 - [Qiita](https://qiita.com/inoway46)
 - [Zenn](https://zenn.dev/inoway46)
+- [SpeakerDeck](https://speakerdeck.com/inoway46)
